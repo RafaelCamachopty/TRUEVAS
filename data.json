@@ -1,0 +1,605 @@
+{
+  "panama": {
+    "nombre": "Panamá",
+    "subtitulo": "Infinita",
+    "tagline": "Donde el Pacífico abraza al Atlántico",
+    "descripcion": "Maravillas de ingeniería, culturas ancestrales, selvas vírgenes y playas remotas en un territorio extraordinario de 75,517 km². El istmo que une dos continentes y separa dos océanos.",
+    "continente": "América Central",
+    "moneda": "Dólar estadounidense (USD) / Balboa (PAB)",
+    "idioma": "Español",
+    "capital": "Ciudad de Panamá",
+    "poblacion": "4,404,108",
+    "zona_horaria": "UTC-5",
+    "codigo_telefonico": "+507",
+    "hero_img": "img/panama/hero.jpg",
+    "page_header_img": "img/panama/header.jpg",
+    "stats": [
+      { "numero": "75,517", "label": "km² de territorio" },
+      { "numero": "10,000+", "label": "Especies de flora" },
+      { "numero": "3,475 m", "label": "Volcán Barú" },
+      { "numero": "4.4 M", "label": "Visitantes al año" }
+    ],
+    "ticker": [
+      "Canal de Panamá | 80 km entre dos océanos",
+      "San Blas | 365 islas administradas por el pueblo Guna",
+      "Volcán Barú | 3,475 m — punto más alto del país",
+      "Café Geisha | $6,034 USD por kilogramo en subasta",
+      "Bocas del Toro | 9 islas principales en el Caribe",
+      "Darién | Patrimonio Natural de la Humanidad UNESCO",
+      "Aves de Panamá | 1,026 especies registradas",
+      "Pueblos originarios | 7 culturas indígenas vivas"
+    ],
+    "quick_facts": [
+      {
+        "icono": "globe",
+        "titulo": "Puente biológico entre continentes",
+        "texto": "El istmo panameño emergió del mar hace 3.5 millones de años, uniendo América del Norte con América del Sur y permitiendo el Gran Intercambio Biótico Americano."
+      },
+      {
+        "icono": "mountain",
+        "titulo": "Único lugar con vista a dos océanos",
+        "texto": "Desde la cima del Volcán Barú (3,475 m), en días despejados, se pueden ver simultáneamente el Océano Pacífico y el Mar Caribe. Es el único lugar del planeta donde esto es posible."
+      },
+      {
+        "icono": "dollar",
+        "titulo": "Dólar estadounidense como moneda oficial",
+        "texto": "Desde 1904, Panamá utiliza el dólar (USD) como moneda de curso legal. El Balboa (PAB) existe únicamente en monedas fraccionarias con paridad 1:1."
+      },
+      {
+        "icono": "bird",
+        "titulo": "Récord mundial de observación de aves",
+        "texto": "Panamá ostenta el récord mundial del Christmas Bird Count con 357 especies de aves avistadas en un solo día. El país alberga más especies de aves que toda América del Norte."
+      }
+    ],
+    "destinos": [
+      {
+        "id": "canal",
+        "nombre": "Canal de Panamá",
+        "tag": "Ingeniería · Maravilla del mundo moderno",
+        "descripcion": "Ochenta kilómetros de vía acuática que conectan el Pacífico y el Atlántico. Inaugurado el 15 de agosto de 1914, maneja el 6% del comercio marítimo mundial con entre 36 y 38 buques transitando diariamente.",
+        "imagen": "img/panama/canal.jpg",
+        "detalle": "El Canal de Panamá es una de las siete maravillas de la ingeniería moderna según la ASCE. Cuenta con tres juegos de esclusas: Miraflores (2 cámaras), Pedro Miguel (1 cámara) y Gatún (3 cámaras). La ampliación de 2016 añadió las esclusas de Cocolí (Pacífico) y Agua Clara (Atlántico), permitiendo el paso de buques Neopanamax de hasta 55 metros de manga. El peaje más alto registrado fue de $1,201,777 USD pagado por el buque Ever Max en 2023. El tránsito más económico de la historia lo realizó Richard Halliburton en 1928, nadando el canal completo por un peaje de $0.36 USD.",
+        "precio_entrada": "$20 USD (Centro de Visitantes de Miraflores)",
+        "horario": "Lunes a domingo, 8:00 AM - 5:00 PM",
+        "consejo": "Visitar temprano en la mañana para ver el mayor tráfico de buques"
+      },
+      {
+        "id": "casco",
+        "nombre": "Casco Antiguo",
+        "tag": "Patrimonio UNESCO · Fundado en 1673",
+        "descripcion": "El corazón histórico de Ciudad de Panamá. Fundado tras la destrucción de Panamá La Vieja por el pirata Henry Morgan en 1671. Calles empedradas, iglesias barrocas, plazas coloniales y restaurantes de clase mundial.",
+        "imagen": "img/panama/casco.jpg",
+        "detalle": "Declarado Patrimonio de la Humanidad por UNESCO en 1997. La Catedral Metropolitana tardó 108 años en construirse (1688-1796) y es uno de los edificios más fotografiados del país. La Iglesia de San José alberga el famoso Altar de Oro, salvado del saqueo de Morgan al ser cubierto con pintura negra. El Arco Chato permaneció en pie sin columnas durante 350 años hasta un incendio. Las Bóvedas, antiguas mazmorras españolas, hoy son galerías de arte. El Teatro Nacional, inaugurado en 1908, conserva su techo pintado por el maestro Roberto Lewis.",
+        "precio_entrada": "Gratuito (edificios individuales pueden cobrar)",
+        "horario": "Siempre accesible (recomendado de día)",
+        "consejo": "Subir a una azotea al atardecer para ver el skyline iluminarse"
+      },
+      {
+        "id": "sanblas",
+        "nombre": "Archipiélago de San Blas",
+        "tag": "Caribe · Comarca Guna Yala",
+        "descripcion": "Trescientas sesenta y cinco islas de arena blanca y aguas turquesas, administradas con soberanía plena por el pueblo indígena Guna. Solo 49 están habitadas. Sin electricidad constante, sin WiFi, sin cadenas hoteleras — solo naturaleza virgen y autenticidad.",
+        "imagen": "img/panama/sanblas.jpg",
+        "detalle": "El pueblo Guna Yala mantiene su autonomía política, cultural y territorial desde la Revolución Guna de 1925. Cada isla es administrada por una familia o comunidad. El alojamiento se realiza en cabañas rústicas de madera y techo de palma con arena como suelo. El acceso principal es por avioneta desde el Aeropuerto de Albrook (30-45 minutos) o por carretera 4x4 desde Ciudad de Panamá (3 horas hasta el puerto de Cartí). Se recomienda llevar efectivo, protector solar biodegradable y una mente abierta a la desconexión digital.",
+        "precio_entrada": "$25-50 USD por noche (alojamiento básico)",
+        "horario": "Acceso durante horas diurnas",
+        "consejo": "Llevar dólares en efectivo. No hay cajeros automáticos en la comarca"
+      },
+      {
+        "id": "boquete",
+        "nombre": "Boquete, Chiriquí",
+        "tag": "Montaña · Café · Aventura",
+        "descripcion": "Valle de flores y café gourmet a 1,000 metros sobre el nivel del mar, en las faldas del Volcán Barú. Clima primaveral todo el año. Cuna del Café Geisha más valorado del mundo y punto de partida para ascender el punto más alto de Panamá.",
+        "imagen": "img/panama/boquete.jpg",
+        "detalle": "Hacienda La Esmeralda, propiedad de la familia Peterson, popularizó la variedad Geisha en 2004 y alcanzó el récord mundial de $6,034 USD por kilogramo en la subasta de 2023. Las notas de jazmín, bergamota y frutas tropicales hacen de este café una experiencia única. El Volcán Barú (3,475 m) ofrece la única vista del mundo donde se pueden ver simultáneamente el Pacífico y el Atlántico. El ascenso nocturno para ver el amanecer desde la cumbre toma entre 6 y 8 horas (14 km ida y vuelta).",
+        "precio_entrada": "Tour de café: $25-35 USD · Ascenso al volcán: desde $50 USD",
+        "horario": "Fincas de café: 8:00 AM - 4:00 PM",
+        "consejo": "La mejor época para el ascenso al volcán es enero-abril con cielos despejados"
+      },
+      {
+        "id": "bocas",
+        "nombre": "Bocas del Toro",
+        "tag": "Caribe · Archipiélago de 9 islas",
+        "descripcion": "Un archipiélago vibrante en el Caribe panameño. Surf de clase mundial en Playa Bluff, snorkel con tiburones nodriza en Cayo Coral, delfines nariz de botella en Dolphin Bay, y la endémica rana venenosa de fresa (Oophaga pumilio).",
+        "imagen": "img/panama/bocas.jpg",
+        "detalle": "El archipiélago consta de 9 islas principales, siendo Isla Colón la más desarrollada. Playa Bluff ofrece olas consistentes de clase mundial. Cayo Coral permite snorkel con tiburones nodriza a solo 6 metros de profundidad. La rana venenosa de fresa, de color rojo intenso con puntos negros, es endémica de Isla Bastimentos. La temporada de anidación de tortugas marinas (carey, verde y baula) es de mayo a septiembre. La gastronomía local incluye pescado frito con patacones y arroz con coco.",
+        "precio_entrada": "Tour de snorkel: $25-40 USD · Alojamiento desde $30 USD",
+        "horario": "Tours generalmente 9:00 AM - 4:00 PM",
+        "consejo": "Mayo y noviembre ofrecen menor ocupación y precios más bajos con buen clima"
+      },
+      {
+        "id": "taboga",
+        "nombre": "Isla Taboga",
+        "tag": "Pacífico · Escapada de un día",
+        "descripcion": "A solo veinte minutos en ferry desde Ciudad de Panamá. Conocida como la Isla de las Flores, ofrece playas tranquilas, senderos con buganvilias y la Iglesia de San Pedro, una de las más antiguas del hemisferio occidental.",
+        "imagen": "img/panama/taboga.jpg",
+        "detalle": "La Iglesia de San Pedro fue fundada en 1524, apenas cinco años después de la fundación de la primera Ciudad de Panamá. El pueblo de Taboga conserva su arquitectura colonial con casas de colores. Los senderos suben al cerro Vigía y al cerro de la Cruz con vistas panorámicas. La temporada de avistamiento de ballenas jorobadas es de julio a octubre. La playa principal, Playa Restinga, es ideal para nadar con aguas tranquilas.",
+        "precio_entrada": "Ferry ida y vuelta: $20 USD",
+        "horario": "Ferris cada hora desde Causeway de Amador",
+        "consejo": "Comprar el boleto de ferry con anticipación los fines de semana"
+      },
+      {
+        "id": "darien",
+        "nombre": "Parque Nacional Darién",
+        "tag": "UNESCO · Selva primaria · Biodiversidad extrema",
+        "descripcion": "Patrimonio Natural de la Humanidad desde 1981. Una de las selvas tropicales más biodiversas del planeta. Más de 450 especies de aves, 2,500 de plantas y 169 de mamíferos documentados.",
+        "imagen": "img/panama/darien.jpg",
+        "detalle": "El Darién es el tapón ecológico que conecta Centroamérica con Sudamérica. Las comunidades indígenas Emberá y Wounaan son los guardianes ancestrales de este territorio. Las expediciones guiadas de 3 a 7 días parten desde La Palma o Yaviza. Se requiere coordinación con operadores certificados y guías locales. La pesca del sábalo y el avistamiento del águila arpía son experiencias únicas. No es un destino para turismo masivo — es para viajeros con espíritu de exploración.",
+        "precio_entrada": "Expediciones desde $500 USD (3-7 días)",
+        "horario": "Solo con guía autorizado",
+        "consejo": "Contratar siempre guías locales certificados. Respetar las comunidades indígenas"
+      },
+      {
+        "id": "perlas",
+        "nombre": "Archipiélago de las Perlas",
+        "tag": "Pacífico · Lujo · Naturaleza",
+        "descripcion": "Noventa islas e islotes en el Pacífico panameño con aguas cristalinas. Pesca deportiva de marlín y dorado de clase mundial, resorts de lujo en Isla Contadora y playas desiertas en islas remotas.",
+        "imagen": "img/panama/perlas.jpg",
+        "detalle": "El archipiélago debe su nombre a las perlas que se extrajeron durante siglos, incluida la Peregrina, que perteneció a Felipe II y luego a Elizabeth Taylor. Isla Contadora concentra los resorts de lujo con pista de aterrizaje. La pesca deportiva del marlín negro alcanza su pico entre noviembre y marzo. El avistamiento de ballenas jorobadas es de julio a octubre. Otras islas como San José, Pedro González e Isla del Rey ofrecen experiencias más rústicas.",
+        "precio_entrada": "Vuelo desde Albrook: $100-150 USD ida y vuelta",
+        "horario": "Vuelos diarios",
+        "consejo": "Reservar con anticipación en temporada alta (diciembre-abril)"
+      }
+    ],
+    "cultura": {
+      "header_img": "img/panama/cultura-header.jpg",
+      "titulo": "Cultura Panameña",
+      "descripcion": "Una mezcla vibrante de 7 pueblos indígenas, raíces africanas, herencia española y oleadas migratorias globales que produce una identidad cultural única en América Latina.",
+      "stats": [
+        { "numero": "7", "label": "Pueblos indígenas" },
+        { "numero": "500+", "label": "Años de historia colonial" },
+        { "numero": "3", "label": "Sitios Patrimonio UNESCO" },
+        { "numero": "12,000", "label": "Años de presencia humana" }
+      ],
+      "items": [
+        {
+          "id": "carnaval",
+          "nombre": "Carnaval de Las Tablas",
+          "tag": "Festividad · Provincia de Los Santos",
+          "descripcion": "Considerado uno de los carnavales más auténticos e intensos de Latinoamérica. Los bandos rivales Calle Arriba y Calle Abajo compiten con carrozas monumentales y disfraces elaborados durante meses.",
+          "imagen": "img/panama/carnaval.jpg",
+          "detalle": "La rivalidad entre Calle Arriba y Calle Abajo define la identidad de Las Tablas. Cada bando elige una reina con meses de anticipación y las familias trabajan en las carrozas durante todo el año. Los tradicionales 'culecos' — batallas de agua con camiones cisterna — refrescan a los asistentes cada tarde. El Carnaval de Las Tablas atrae a más de 100,000 visitantes cada febrero."
+        },
+        {
+          "id": "molas",
+          "nombre": "Molas Guna",
+          "tag": "Arte textil · Pueblo Guna",
+          "descripcion": "Arte textil creado con la técnica del 'appliqué inverso': capas de tela de colores que se recortan y cosen para revelar diseños geométricos inspirados en la naturaleza y la cosmovisión Guna.",
+          "imagen": "img/panama/molas.jpg",
+          "detalle": "Cada mola es una obra de arte única que puede tardar entre dos y seis semanas en completarse. Los diseños representan elementos de la naturaleza (aves, peces, plantas), la mitología Guna y patrones geométricos abstractos. Las molas son reconocidas por UNESCO como patrimonio cultural inmaterial y constituyen una fuente importante de ingresos para las mujeres Guna."
+        },
+        {
+          "id": "pollera",
+          "nombre": "La Pollera Nacional",
+          "tag": "Vestido nacional · Símbolo patrio",
+          "descripcion": "Considerado uno de los trajes nacionales más elaborados del mundo. Bordado completamente a mano durante meses con hilos de seda y adornado con joyas de oro y perlas.",
+          "imagen": "img/panama/pollera.jpg",
+          "detalle": "Una pollera de gala puede costar entre $5,000 y $25,000 USD dependiendo de la calidad del bordado y las joyas. Se luce con orgullo durante las Fiestas Patrias de noviembre y el Festival Nacional de la Pollera en Las Tablas. Los tembleques — adornos para el cabello hechos con escamas de pescado o perlas — complementan el conjunto."
+        },
+        {
+          "id": "pueblos",
+          "nombre": "Pueblos Originarios",
+          "tag": "Patrimonio vivo · 6 comarcas indígenas",
+          "descripcion": "Siete pueblos indígenas con territorios autónomos: Ngäbe (260,058), Guna (80,526), Buglé (24,912), Emberá (14,269), Wounaan (8,177), Naso (4,090) y Bri Bri (1,068).",
+          "imagen": "img/panama/pueblos.jpg",
+          "detalle": "Cada pueblo conserva su lengua, cosmovisión, sistemas de gobierno tradicional y expresiones artísticas propias. Las seis comarcas indígenas — Guna Yala, Ngäbe-Buglé, Emberá-Wounaan, Guna de Madungandí, Guna de Wargandí y Naso Tjër Di — cubren aproximadamente el 20% del territorio nacional. El turismo responsable y culturalmente respetuoso es bienvenido en varias de estas comunidades."
+        }
+      ],
+      "dark_band": {
+        "titulo": "Un país moldeado por el mundo",
+        "texto": "La cultura panameña es resultado de doce mil años de presencia humana, la colonización española desde 1501, la diáspora africana traída durante la época colonial, y las oleadas migratorias de los siglos XIX y XX — antillanos, chinos, norteamericanos, franceses — que llegaron para construir primero el ferrocarril transoceánico y después el Canal. Esta confluencia se manifiesta en la música típica y la saloma, la gastronomía, las artesanías y las celebraciones que llenan el calendario nacional.",
+        "datos": [
+          { "numero": "12,000", "label": "años de presencia humana" },
+          { "numero": "1501", "label": "llegada de los españoles" },
+          { "numero": "7", "label": "pueblos indígenas vivos" },
+          { "numero": "1999", "label": "reversión total del Canal" }
+        ]
+      }
+    },
+    "gastronomia": {
+      "header_img": "img/panama/gastronomia-header.jpg",
+      "titulo": "Gastronomía de Panamá",
+      "descripcion": "Ingredientes nativos, técnicas españolas y sabores africanos fusionados en platos generosos. Reconocida por Latin America's 50 Best Restaurants.",
+      "platos": [
+        {
+          "nombre": "Sancocho de gallina",
+          "categoria": "Plato nacional · Sopa tradicional",
+          "descripcion": "Caldo profundo de gallina criolla con ñame, culantro de castilla y otoe, cocinado de 3 a 4 horas a fuego lento. El plato dominical de cada familia panameña y remedio tradicional para el malestar.",
+          "imagen": "img/panama/sancocho.jpg",
+          "nota": "Origen: provincias centrales, siglo XIX"
+        },
+        {
+          "nombre": "Ceviche panameño",
+          "categoria": "Pacífico · Fresco · Entrada",
+          "descripcion": "Corvina fresca del Pacífico marinada en jugo de limón con cebolla blanca, culantro y ají chombo. Sin leche de coco — más cítrico que el ceviche peruano. La entrada imprescindible en toda cevichería del país.",
+          "imagen": "img/panama/ceviche.jpg",
+          "nota": "Base: corvina del Pacífico y ají chombo nativo"
+        },
+        {
+          "nombre": "Patacones",
+          "categoria": "Acompañamiento universal",
+          "descripcion": "Plátano verde aplastado y frito dos veces hasta lograr textura dorada y crujiente. Se sirven con hogao, guacamole o como base para carnes y mariscos. Presentes en desayuno, almuerzo y cena sin excepción.",
+          "imagen": "img/panama/patacones.jpg",
+          "nota": "Presente en las tres comidas del día"
+        },
+        {
+          "nombre": "Carimañolas",
+          "categoria": "Desayuno · Comida callejera",
+          "descripcion": "Croquetas de yuca rellenas de carne molida guisada o queso blanco, fritas hasta dorar. El desayuno callejero más popular del país, especialmente en Ciudad de Panamá y Colón.",
+          "imagen": "img/panama/carimanolas.jpg",
+          "nota": "Presentes en todas las Fiestas Patrias de noviembre"
+        },
+        {
+          "nombre": "Café Geisha de Boquete",
+          "categoria": "Chiriquí · 1,600 m de altura",
+          "descripcion": "Considerado por catadores internacionales como el café más fino del mundo. La variedad Geisha cultivada en Hacienda La Esmeralda alcanzó el récord de subasta de $6,034 USD por kilogramo en 2023. Sus notas florales de jazmín, bergamota y frutas tropicales son inconfundibles.",
+          "imagen": "img/panama/cafe-geisha.jpg",
+          "nota": "Récord de subasta: $6,034/kg — La Esmeralda 2023"
+        },
+        {
+          "nombre": "Arroz con pollo panameño",
+          "categoria": "Plato familiar · Domingo",
+          "descripcion": "Cocinado en caldo casero con culantro, cebolla y achiote que le da un color amarillo-anaranjado intenso. Más generoso y aromático que otras versiones latinoamericanas. El plato del mediodía dominical en todo el país.",
+          "imagen": "img/panama/arroz-pollo.jpg",
+          "nota": "Se acompaña con tajadas de plátano maduro y ensalada de papa"
+        }
+      ]
+    },
+    "aventura": {
+      "header_img": "img/panama/aventura-header.jpg",
+      "titulo": "Aventura & Naturaleza",
+      "descripcion": "Panamá alberga más especies de aves que toda América del Norte. Sus selvas, océanos y montañas son escenario de experiencias únicas en el mundo.",
+      "stats": [
+        { "numero": "1,026", "label": "Especies de aves" },
+        { "numero": "218", "label": "Especies de reptiles" },
+        { "numero": "3,475 m", "label": "Altura Volcán Barú" },
+        { "numero": "29%", "label": "Territorio protegido" }
+      ],
+      "actividades": [
+        {
+          "numero": "01",
+          "nombre": "Ascenso al Volcán Barú",
+          "descripcion": "La cumbre más alta de Panamá (3,475 m) ofrece, en días despejados, la única vista del mundo desde la que se pueden ver simultáneamente el Océano Pacífico y el Mar Caribe. El ascenso nocturno para llegar al amanecer es una experiencia memorable. Temperatura en la cima: 2-8°C. Distancia: 14 km ida y vuelta.",
+          "badges": ["Trekking", "Alta montaña"]
+        },
+        {
+          "numero": "02",
+          "nombre": "Snorkel y buceo en Bocas del Toro",
+          "descripcion": "Más de 40 puntos de buceo documentados. Cayo Coral tiene corales blandos y duros en excelente estado con tiburones nodriza a 6 metros. Hospital Point ofrece encuentros con rayas y tortugas carey. Visibilidad promedio: 15-25 metros.",
+          "badges": ["Buceo · Caribe", "Todos los niveles"]
+        },
+        {
+          "numero": "03",
+          "nombre": "Birdwatching en Pipeline Road",
+          "descripcion": "A 25 km de Ciudad de Panamá, el Parque Nacional Soberanía alberga la Pipeline Road, una de las mejores rutas de observación de aves del mundo. En un solo día es posible avistar más de 100 especies. El Christmas Bird Count de Panamá ostenta el récord mundial de 357 especies en 24 horas.",
+          "badges": ["Birdwatching", "Selva tropical"]
+        },
+        {
+          "numero": "04",
+          "nombre": "Rafting en el Río Chiriquí",
+          "descripcion": "Los ríos Chiriquí y Chiriquí Viejo ofrecen rápidos de clase III a V en plena selva tropical. La sección Sabo del Chiriquí Viejo es considerada uno de los mejores recorridos de aguas bravas de Centroamérica.",
+          "badges": ["Rafting", "Media-Alta dificultad"]
+        },
+        {
+          "numero": "05",
+          "nombre": "Expedición al Parque Nacional Darién",
+          "descripcion": "Patrimonio Natural de la Humanidad desde 1981. Más de 450 especies de aves y 2,500 de plantas. Comunidades indígenas Emberá y Wounaan custodian el territorio. Expediciones de 3 a 7 días.",
+          "badges": ["Expedición", "Ecoturismo avanzado"]
+        },
+        {
+          "numero": "06",
+          "nombre": "Surf en Santa Catalina y Playa Venao",
+          "descripcion": "Santa Catalina (Veraguas) tiene olas de clase mundial con puntas de hasta 3 metros en temporada alta (diciembre-abril). Playa Venao (Los Santos) es ideal para principiantes y longboarders.",
+          "badges": ["Surf · Pacífico", "Todos los niveles"]
+        }
+      ],
+      "dark_band": {
+        "titulo": "Un laboratorio natural único en el planeta",
+        "texto": "El istmo panameño actúa como corredor biológico entre América del Norte y del Sur. Cuando los dos continentes se unieron hace 3.5 millones de años, Panamá se convirtió en el puente que permitió el intercambio de fauna y flora. Por eso en 75,000 km² conviven manglares, arrecifes coralinos, selva tropical húmeda, bosque nublado y páramo volcánico.",
+        "datos": [
+          { "numero": "29%", "label": "territorio bajo protección" },
+          { "numero": "10,000+", "label": "especies vegetales" },
+          { "numero": "250+", "label": "especies de mamíferos" }
+        ]
+      }
+    },
+    "historia": {
+      "header_img": "img/panama/historia-header.jpg",
+      "titulo": "Historia de Panamá",
+      "descripcion": "Del descubrimiento del Mar del Sur a la construcción del Canal: 12,000 años de historia en el istmo que cambió el mundo.",
+      "cronologia": [
+        {
+          "fecha": "12,000 a.C.",
+          "titulo": "Primeros pobladores",
+          "texto": "Los primeros grupos humanos llegan al istmo de Panamá. Culturas como los Coclé, Chiriquí y Darién desarrollan sofisticadas técnicas de orfebrería y cerámica."
+        },
+        {
+          "fecha": "1501",
+          "titulo": "Llegada de los españoles",
+          "texto": "Rodrigo de Bastidas es el primer europeo documentado en llegar al istmo panameño. Cristóbal Colón llegaría un año después en su cuarto viaje."
+        },
+        {
+          "fecha": "1513",
+          "titulo": "Descubrimiento del Mar del Sur",
+          "texto": "Vasco Núñez de Balboa cruza el istmo y descubre el Océano Pacífico el 25 de septiembre, bautizándolo como el Mar del Sur."
+        },
+        {
+          "fecha": "1519",
+          "titulo": "Fundación de Panamá",
+          "texto": "Pedrarias Dávila funda Nuestra Señora de la Asunción de Panamá el 15 de agosto, la primera ciudad europea en la costa pacífica de América."
+        },
+        {
+          "fecha": "1671",
+          "titulo": "Destrucción de Panamá La Vieja",
+          "texto": "El pirata Henry Morgan ataca y destruye la primera ciudad. Dos años después, en 1673, se funda el Casco Antiguo en una ubicación más defendible."
+        },
+        {
+          "fecha": "1821",
+          "titulo": "Independencia de España",
+          "texto": "Panamá se independiza de España el 28 de noviembre y se une voluntariamente a la Gran Colombia de Simón Bolívar."
+        },
+        {
+          "fecha": "1855",
+          "titulo": "Ferrocarril de Panamá",
+          "texto": "Se completa el primer ferrocarril transoceánico del mundo, conectando el Atlántico con el Pacífico en 76 kilómetros."
+        },
+        {
+          "fecha": "1881-1889",
+          "titulo": "Intento francés del Canal",
+          "texto": "Ferdinand de Lesseps, constructor del Canal de Suez, intenta construir un canal a nivel. El proyecto fracasa con más de 22,000 muertes por malaria y fiebre amarilla."
+        },
+        {
+          "fecha": "1903",
+          "titulo": "Independencia de Colombia",
+          "texto": "Panamá se separa de Colombia el 3 de noviembre con apoyo de Estados Unidos, que busca reanudar la construcción del canal."
+        },
+        {
+          "fecha": "1914",
+          "titulo": "Inauguración del Canal",
+          "texto": "El Canal de Panamá se inaugura el 15 de agosto con el tránsito del vapor Ancón. La obra costó $375 millones y la vida de 5,600 trabajadores."
+        },
+        {
+          "fecha": "1977",
+          "titulo": "Tratados Torrijos-Carter",
+          "texto": "El presidente Omar Torrijos y el presidente Jimmy Carter firman los tratados que devolverían el Canal a Panamá."
+        },
+        {
+          "fecha": "1999",
+          "titulo": "Reversión del Canal",
+          "texto": "El 31 de diciembre, a las 12:00 del mediodía, el Canal de Panamá pasa a manos panameñas tras 85 años de administración estadounidense."
+        },
+        {
+          "fecha": "2016",
+          "titulo": "Ampliación del Canal",
+          "texto": "Se inaugura el tercer juego de esclusas el 26 de junio, permitiendo el paso de buques Neopanamax con capacidad de hasta 14,000 contenedores."
+        }
+      ]
+    },
+    "practica": {
+      "header_img": "img/panama/practica-header.jpg",
+      "titulo": "Información Práctica",
+      "descripcion": "Todo lo que necesitas saber antes de viajar a Panamá: moneda, transporte, clima, visados y conectividad.",
+      "info_cards": [
+        {
+          "icono": "dollar",
+          "titulo": "Moneda",
+          "texto": "Panamá usa el dólar estadounidense (USD) como moneda oficial desde 1904. El Balboa panameño (PAB) tiene paridad 1:1 con el dólar y circula solo en monedas. Sin riesgo cambiario para viajeros.",
+          "badge": "1 USD = 1 PAB"
+        },
+        {
+          "icono": "plane",
+          "titulo": "Cómo llegar",
+          "texto": "El Aeropuerto Internacional de Tocumen (PTY) recibe vuelos directos desde más de 90 destinos. Hub principal de Copa Airlines. Transfer al centro: $25-35 USD, 30-45 minutos.",
+          "badge": "Código IATA: PTY"
+        },
+        {
+          "icono": "weather",
+          "titulo": "Clima",
+          "texto": "Tropical todo el año: 26-32°C en costas. Temporada seca (diciembre-abril) ideal para Pacífico. Temporada verde (mayo-noviembre) mejor para Caribe y fauna.",
+          "badge": "Tropical · 26-32°C"
+        },
+        {
+          "icono": "visa",
+          "titulo": "Visas",
+          "texto": "La mayoría de países latinoamericanos, EE.UU., Canadá, Unión Europea, Reino Unido y Australia ingresan sin visa por hasta 180 días como turistas.",
+          "badge": "Sin visa · 180 días"
+        },
+        {
+          "icono": "wifi",
+          "titulo": "Conectividad",
+          "texto": "Excelente cobertura 4G/LTE en ciudades (Cable & Wireless, Claro, Movistar). Chips prepago desde $10-15 USD en el aeropuerto. San Blas y Darién: desconexión total.",
+          "badge": "4G / 5G en ciudades"
+        },
+        {
+          "icono": "hotel",
+          "titulo": "Alojamiento",
+          "texto": "Hostales desde $15/noche, hoteles boutique en el Casco desde $80, resorts de lujo en islas desde $350+/noche. Airbnb con amplia oferta en zonas principales.",
+          "badge": "Desde $15 · Todo presupuesto"
+        }
+      ],
+      "itinerario": [
+        { "dia": "1–2", "titulo": "Ciudad de Panamá", "texto": "Esclusas de Miraflores, Casco Antiguo, Cinta Costera, Causeway de Amador y skyline nocturno desde Cerro Ancón." },
+        { "dia": "3–4", "titulo": "Archipiélago de San Blas", "texto": "Vuelo en avioneta desde Albrook al amanecer. Cabañas Guna sobre el agua. Snorkel en arrecifes vírgenes de coral." },
+        { "dia": "5–6", "titulo": "Bocas del Toro o Boquete", "texto": "Opción Caribe: surf, delfines y fauna marina. Opción montaña: café de altura, senderismo y Volcán Barú." },
+        { "dia": "7", "titulo": "Regreso a la capital", "texto": "Compras en Albrook Mall, almuerzo de despedida en el Casco y vuelo internacional desde Tocumen (PTY)." }
+      ],
+      "temporadas": [
+        {
+          "nombre": "Temporada seca",
+          "meses": "Diciembre — Abril",
+          "descripcion": "Ideal para playas del Pacífico, senderismo en el volcán y tours del Canal. Carnaval en febrero imperdible. Precios 30-40% más altos.",
+          "porcentaje": 90
+        },
+        {
+          "nombre": "Temporada verde",
+          "meses": "Mayo — Noviembre",
+          "descripcion": "El Caribe en su mejor momento. Fauna más activa, paisajes exuberantes y precios 20-40% más bajos. Lluvias generalmente cortas con sol posterior.",
+          "porcentaje": 68
+        }
+      ]
+    },
+    "secciones": ["cultura", "lugares", "gastronomia", "aventura", "historia", "practica"]
+  },
+
+  "costa-rica": {
+    "nombre": "Costa Rica",
+    "subtitulo": "Pura Vida",
+    "tagline": "Donde la naturaleza despierta los sentidos",
+    "descripcion": "Un santuario de biodiversidad que alberga el 5% de las especies del planeta en solo 51,100 km². Volcanes activos, playas infinitas y una filosofía de vida que celebra la paz y la sostenibilidad.",
+    "continente": "América Central",
+    "moneda": "Colón costarricense (CRC)",
+    "idioma": "Español",
+    "capital": "San José",
+    "poblacion": "5,213,000",
+    "zona_horaria": "UTC-6",
+    "codigo_telefonico": "+506",
+    "hero_img": "img/costa-rica/hero.jpg",
+    "page_header_img": "img/costa-rica/header.jpg",
+    "stats": [
+      { "numero": "51,100", "label": "km² de territorio" },
+      { "numero": "500,000+", "label": "Especies de flora y fauna" },
+      { "numero": "3,432 m", "label": "Cerro Chirripó" },
+      { "numero": "3.1 M", "label": "Visitantes al año" }
+    ],
+    "ticker": [
+      "Volcán Arenal | 1,670 m de altura · Aguas termales",
+      "Monteverde | Bosque nuboso con 2.5% de la biodiversidad mundial",
+      "Parque Nacional Manuel Antonio | El más visitado del país",
+      "Café de Tarrazú | Reconocido internacionalmente por su calidad",
+      "Tortuguero | Canales y desove de tortugas marinas",
+      "Guanacaste | Playas doradas del Pacífico norte"
+    ],
+    "quick_facts": [
+      {
+        "icono": "peace",
+        "titulo": "País sin ejército desde 1949",
+        "texto": "Costa Rica abolió su ejército el 1 de diciembre de 1949. El presupuesto militar se destina a educación, salud y protección ambiental."
+      },
+      {
+        "icono": "nature",
+        "titulo": "5% de la biodiversidad mundial",
+        "texto": "Aunque Costa Rica representa solo el 0.03% de la superficie terrestre, alberga cerca del 5% de todas las especies conocidas del planeta."
+      },
+      {
+        "icono": "energy",
+        "titulo": "Energía 99% renovable",
+        "texto": "El país genera más del 99% de su electricidad a partir de fuentes renovables: hidroeléctrica, geotérmica, eólica, solar y biomasa."
+      },
+      {
+        "icono": "protected",
+        "titulo": "26% del territorio protegido",
+        "texto": "Costa Rica tiene más del 26% de su territorio bajo algún régimen de protección ambiental, con 28 parques nacionales y 8 reservas biológicas."
+      }
+    ],
+    "destinos": [
+      {
+        "id": "arenal",
+        "nombre": "Volcán Arenal",
+        "tag": "Naturaleza · Aventura · Aguas termales",
+        "descripcion": "Imponente volcán de 1,670 metros rodeado de aguas termales naturales, senderos de lava, canopy y el lago Arenal, ideal para windsurf y kayak.",
+        "imagen": "img/costa-rica/arenal.jpg",
+        "detalle": "El Volcán Arenal estuvo en erupción continua desde 1968 hasta 2010, siendo uno de los volcanes más activos del mundo. Hoy es un destino de aguas termales con temperaturas entre 37°C y 60°C, puentes colgantes sobre el bosque nuboso, rafting en el río Toro (clase III-IV) y observación de tucanes, monos aulladores y perezosos.",
+        "precio_entrada": "Parque Nacional: $15 USD · Aguas termales: $30-80 USD",
+        "horario": "Parque: 8:00 AM - 4:00 PM",
+        "consejo": "Visitar las aguas termales al atardecer con vista al volcán"
+      },
+      {
+        "id": "manuel-antonio",
+        "nombre": "Parque Nacional Manuel Antonio",
+        "tag": "Pacífico · Playas · Biodiversidad",
+        "descripcion": "El parque nacional más visitado de Costa Rica. Combina playas de arena blanca, senderos selváticos y una abundante fauna visible: monos, perezosos, iguanas y tucanes.",
+        "imagen": "img/costa-rica/manuel-antonio.jpg",
+        "detalle": "A pesar de ser el parque más pequeño del sistema nacional (683 hectáreas terrestres), Manuel Antonio es el más biodiverso por metro cuadrado. Cuatro playas dentro del parque: Espadilla Sur, Manuel Antonio, Escondido y Playita. Los monos capuchinos son famosos por su astucia con los visitantes. El parque cierra los lunes para mantenimiento.",
+        "precio_entrada": "$16 USD",
+        "horario": "Miércoles a lunes, 7:00 AM - 4:00 PM (cerrado martes)",
+        "consejo": "Llegar temprano: el parque limita la entrada a 600 visitantes por día"
+      }
+    ],
+    "cultura": {
+      "header_img": "img/costa-rica/cultura-header.jpg",
+      "titulo": "Cultura Costarricense",
+      "descripcion": "La filosofía 'Pura Vida' define el espíritu de un pueblo pacífico, educado y profundamente conectado con su entorno natural.",
+      "stats": [
+        { "numero": "96%", "label": "Tasa de alfabetización" },
+        { "numero": "8", "label": "Pueblos indígenas" },
+        { "numero": "1949", "label": "Año de abolición del ejército" },
+        { "numero": "4", "label": "Sitios Patrimonio UNESCO" }
+      ],
+      "items": [
+        {
+          "id": "cafe-tarrazu",
+          "nombre": "Café de Tarrazú",
+          "tag": "Café · Denominación de origen",
+          "descripcion": "La región de Los Santos, en las montañas de Tarrazú, produce uno de los cafés arábica más apreciados del mundo, con denominación de origen protegida desde 2019.",
+          "imagen": "img/costa-rica/cafe-tarrazu.jpg",
+          "detalle": "El café de Tarrazú se cultiva entre 1,200 y 1,900 metros de altitud. Su sabor balanceado con notas de chocolate y frutas lo ha convertido en favorito de baristas internacionales. La recolección se realiza manualmente entre noviembre y marzo, seleccionando solo los granos en su punto óptimo de maduración."
+        }
+      ]
+    },
+    "secciones": ["cultura", "lugares", "gastronomia", "aventura", "practica"]
+  },
+
+  "colombia": {
+    "nombre": "Colombia",
+    "subtitulo": "El País de la Belleza",
+    "tagline": "Donde la magia se vive en cada rincón",
+    "descripcion": "Una tierra de contrastes donde el Caribe besa la nieve andina y la selva amazónica se encuentra con el desierto. Café, salsa, color y la calidez de su gente en 1,141,748 km² de pura diversidad.",
+    "continente": "América del Sur",
+    "moneda": "Peso colombiano (COP)",
+    "idioma": "Español",
+    "capital": "Bogotá",
+    "poblacion": "52,215,000",
+    "zona_horaria": "UTC-5",
+    "codigo_telefonico": "+57",
+    "hero_img": "img/colombia/hero.jpg",
+    "page_header_img": "img/colombia/header.jpg",
+    "stats": [
+      { "numero": "1,141,748", "label": "km² de territorio" },
+      { "numero": "54,000+", "label": "Especies registradas" },
+      { "numero": "5,775 m", "label": "Sierra Nevada de Santa Marta" },
+      { "numero": "5.8 M", "label": "Visitantes al año" }
+    ],
+    "ticker": [
+      "Cartagena de Indias | Ciudad amurallada Patrimonio UNESCO",
+      "Café colombiano | Reconocido como el más suave del mundo",
+      "Valle de Cocora | Palma de cera, árbol nacional de 60 metros",
+      "Amazonas colombiano | 10% de la selva amazónica"
+    ],
+    "quick_facts": [
+      {
+        "icono": "biodiversity",
+        "titulo": "Segundo país más biodiverso",
+        "texto": "Colombia es el segundo país con mayor biodiversidad del planeta, albergando el 10% de todas las especies conocidas en su territorio."
+      },
+      {
+        "icono": "birds",
+        "titulo": "Mayor diversidad de aves del mundo",
+        "texto": "Con 1,934 especies de aves registradas, Colombia es el país con mayor diversidad de aves en el planeta."
+      },
+      {
+        "icono": "coffee",
+        "titulo": "Tercer productor mundial de café",
+        "texto": "El café colombiano es reconocido mundialmente por su suavidad y calidad. La región del Eje Cafetero es Patrimonio de la Humanidad."
+      },
+      {
+        "icono": "coasts",
+        "titulo": "Único país suramericano con dos costas",
+        "texto": "Colombia es el único país de América del Sur con costas en el Océano Pacífico y el Mar Caribe, con más de 3,200 km de litoral."
+      }
+    ],
+    "destinos": [
+      {
+        "id": "cartagena",
+        "nombre": "Cartagena de Indias",
+        "tag": "Patrimonio UNESCO · Ciudad amurallada",
+        "descripcion": "La Heroica combina historia colonial, playas caribeñas y una vibrante vida nocturna. Fundada en 1533, su centro histórico amurallado es uno de los mejor conservados de América.",
+        "imagen": "img/colombia/cartagena.jpg",
+        "detalle": "Declarada Patrimonio de la Humanidad por UNESCO en 1984. Su sistema de fortificaciones, liderado por el Castillo de San Felipe de Barajas, es el más extenso de América del Sur. Las calles de Getsemaní estallan de color y arte urbano. Las Islas del Rosario ofrecen playas de arena blanca a solo 45 minutos en lancha.",
+        "precio_entrada": "Castillo de San Felipe: $10 USD · Centro histórico: gratuito",
+        "horario": "Siempre accesible",
+        "consejo": "Caminar las murallas al atardecer es una experiencia imperdible"
+      }
+    ],
+    "secciones": ["cultura", "lugares", "gastronomia", "aventura", "practica"]
+  }
+}
